@@ -1,0 +1,23 @@
+export const imageUrl = [
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/28.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/26.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/27.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/21.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/29.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/13.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/23.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/24.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/28.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/26.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/26.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/19.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/21.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/29.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/13.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/23.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/24.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/10.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/17.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/29.jpg',
+  'https://cdn.gillion.shufflehound.com/wp-content/uploads/2017/01/10.jpg'
+];

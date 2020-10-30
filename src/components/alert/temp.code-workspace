@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "/Users/sunilsingh/Downloads/New folder"
+    },
+    {
+      "path": "/Users/sunilsingh/Downloads/rate"
+    }
+  ],
+  "settings": {
+    "editor.tabSize": 2,
+    "editor.wordWrapColumn": 100,
+    "files.exclude": {
+      "*secrets*": true
+    }
+  }
+}

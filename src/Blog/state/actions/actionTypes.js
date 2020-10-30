@@ -1,0 +1,28 @@
+//ui related action types
+export const SET_ERRORS = 'SET_ERRORS';
+export const LOADING_UI = 'LOADING_UI';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
+export const STOP_LOADING_UI = 'STOP_LOADING_UI';
+//blog related action types
+export const GET_BLOG = 'GET_BLOG';
+export const GET_BLOG_SUCCESS = 'GET_BLOG_SUCCESS';
+export const GET_CATEGORY_BLOG = 'GET_CATEGORY_BLOG';
+export const GET_CATEGORY_BLOG_SUCCESS = 'GET_CATEGORY_BLOG_SUCCESS';
+export const GET_RECOMMENDED_BLOG = 'GET_RECOMMENDED_BLOG';
+export const GET_RECOMMENDED_BLOG_SUCCESS = 'GET_RECOMMENDED_BLOG_SUCCESS';
+export const COMMENT_BLOG = 'COMMENT_BLOG';
+export const COMMENT_BLOG_SUCCESS = 'COMMENT_BLOG_SUCCESS';
+export const LIKE_BLOG = 'LIKE_BLOG';
+export const LIKE_BLOG_SUCCESS = 'LIKE_BLOG_SUCCESS';
+export const UNLIKE_BLOG = 'UNLIKE_BLOG';
+export const LIKE_COMMENT = 'LIKE_COMMENT';
+export const UNLIKE_COMMENT = 'UNLIKE_COMMENT';
+//create blog related action types
+export const CREATE_BLOG = 'CREATE_BLOG';
+export const CREATE_BLOG_SUCCESS = 'CREATE_BLOG_SUCCESS';
+export const PUBLISH = 'PUBLISH';
+export const PUBLISH_SUCCESS = 'PUBLISH_SUCCESS';
+export const GET_USER_BLOGS = 'GET_USER_BLOGS';
+export const GET_USER_BLOGS_SUCCESS = 'GET_USER_BLOGS_SUCCESS';
+export const GET_ALL_BLOGS = 'GET_ALL_BLOGS';
+export const GET_ALL_BLOGS_SUCCESS = 'GET_ALL_BLOGS_SUCCESS';

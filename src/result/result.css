@@ -1,0 +1,56 @@
+.result-container {
+  padding: 20px;
+  margin-top: 2%;
+  box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  margin: 2%;
+  width: 600px;
+}
+.result-bg {
+  background: linear-gradient(to right, #1c3f6e, #fff);
+  height: 18em;
+}
+.mini-container {
+  box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  background-color: #33343f;
+  margin-top: 2%;
+  text-align: center;
+}
+.mini-container p {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+
+  text-align: center;
+}
+.mini-container span {
+  color: #fff;
+  text-align: center;
+}
+.test-list {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+.test-list:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.test-details {
+  margin-bottom: 4px;
+  color: #000;
+  font-size: 17px;
+  line-height: 22px;
+  font-weight: 700;
+  margin-left: 2%;
+}
+.test-list p {
+  margin-left: 4%;
+  text-align: center;
+  font-weight: 600;
+  font-size: 25px;
+}
+.test-list span {
+  margin-left: -3%;
+  margin-top: 3%;
+}

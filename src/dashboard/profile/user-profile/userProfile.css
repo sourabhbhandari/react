@@ -1,0 +1,13 @@
+@import "~antd/dist/antd.css";
+.main {
+  background-image: linear-gradient(to right, #6a0dad, #1c3f6e);
+  height: 200px;
+ 
+}
+.wave {
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: url(./wave.png);
+  background-size: 1000px 100px;
+}

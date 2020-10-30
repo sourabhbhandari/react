@@ -1,0 +1,23 @@
+.ant-menu-item .anticon,
+.ant-menu-submenu .anticon {
+  font-size: 20px;
+}
+
+/* a {
+  color: white;
+  text-decoration: none;
+  list-style: none;
+  rgba(255,255,255,.65)
+} */
+.selected {
+  color: #fff;
+}
+/* .form-bg {
+  background: #f1f4ffff;
+} */
+.ant-layout {
+  background: #f1f4ffff;
+}
+.ant-layout-header {
+  background: #f1f4ffff;
+}

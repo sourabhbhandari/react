@@ -1,0 +1,17 @@
+.demo-infinite-container {
+  overflow: auto;
+  height: 34.5em;
+  padding: unset;
+}
+
+@media screen and (min-device-width: 360px) and (max-device-width: 1200px) {
+  #hello {
+    margin: 30px;
+  }
+  #hello h1 {
+    font-size: 20px;
+  }
+  #hello .ant-form-horizontal {
+    width: 200px;
+  }
+}

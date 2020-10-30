@@ -1,0 +1,51 @@
+@Partners: Partners;
+.@{Partners}-wrapper {
+  background-color: #fafafa;
+  .@{Partners} {
+    padding: 64px 24px;
+    > p {
+      text-align: center;
+    }
+  }
+  .img-wrapper {
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    .block {
+      margin-bottom: 40px;
+      .block-content {
+        display: flex;
+        border-radius: 4px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        border: none;
+        height: 64px;
+        align-items: center;
+        transition: box-shadow 0.3s @ease-out, transform 0.3s @ease-out;
+        & > span {
+          width: 100%;
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .@{Partners}-wrapper {
+    overflow: hidden;
+    .@{Partners} {
+      ul {
+        li {
+          display: block;
+          width: 100%;
+          padding: 2%;
+          span {
+            height: 168px;
+          }
+        }
+      }
+    }
+  }
+}
