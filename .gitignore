@@ -7,7 +7,6 @@ exam.code-workspace
 *secrets*
 # .prettierrc
 # dependencies
-/node_modules
 /.pnp
 .pnp.js
 
